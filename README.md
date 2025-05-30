@@ -7,6 +7,16 @@ A simple Convolutional Neural Network (CNN) built with PyTorch to classify image
 
 ---
 
+---
+
+## 🔗 Notebooks
+
+- [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YxfwGepsOE49fRF3OSRHBduBALeVQCe-?usp=sharing) – Run this project in your browser
+- [![View on Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/your-kaggle-notebook-link) – Train and test on Kaggle
+
+---
+
+
 ## 📌 Features
 
 - Built using PyTorch
