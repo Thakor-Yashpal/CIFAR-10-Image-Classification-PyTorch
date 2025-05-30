@@ -5,7 +5,6 @@ A simple Convolutional Neural Network (CNN) built with PyTorch to classify image
 
 ['plane', 'car', 'bird', 'cat', 'deer', 'dog', 'frog', 'horse', 'ship', 'truck']
 
----
 
 ---
 
